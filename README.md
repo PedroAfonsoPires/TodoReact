@@ -1,7 +1,7 @@
 <h1 align="center"> Todo </h1>
 
 <p align="center">
-Todo feito em React para todas suas tarefas!
+Todo feito de forma gratuita e online!
 </p>
 
 <p align="center">
